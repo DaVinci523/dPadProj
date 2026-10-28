@@ -1,0 +1,23 @@
+DPAD PROJECT 
+
+Description:
+- Configuring a 4-input D-Pad controller for simple menu selection
+- Building circuitry with Arduino for analog-to-digital conversion
+- Developing menu display on Raspberry Pi with movement in cardinal directions
+- Coding ADC with C and menu display with Java
+
+
+
+To-Do:
+_ Configure circuit arrangement (Breadboard)
+	_ Make schematic diagram of circuit
+_ Program ADC (C)
+_ Develop Menu (Java FX)
+_ Figure out conversion from Arduino to Raspberry Pi (???)
+
+
+Circuit arrangement:
+	- VDD = 3.3 V
+	- 4 buttons (switches) for input
+	- LEDs to show what input should be?
+	- 
